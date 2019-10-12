@@ -16,3 +16,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Removed
 
 
+## [Unreleased]
+
+## [1.0.0] - 2019-10-12
+### Added
+- Formatted print commmand to work with Python3
+
+### Changed
+
+
+### Removed
