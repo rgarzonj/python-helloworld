@@ -1,4 +1,10 @@
 Hello, World
 ============
 
-A simple program, and an example of how to structure a python project.
+This repository will be used to deliver PAC 2 of IoT Development course.
+
+We will:
+- Create an initial tag 0.9
+- Create branch 'portingpython3' to work on the changes to make it work with Python3
+- Create branch 'idiomaticpython' to make some changes in the code
+- Merge both branches and create a new tag 1.0 
